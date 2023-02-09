@@ -26,7 +26,11 @@ Le DOT peut être aussi l'occasion d'indiquer les éventuelles difficultés renc
 Notez **chaque semaine** ce que vous faites et la date correspondante.
 
 - Jeudi 2 février 2023 : première séance de TIPE. Présentation des attendus. Création premier dépot github !
--
+- Jeudi 9 févirer 2023 : deuxième séance de TIPE. Recherche sujet, première idée : billiard (relier les trajectoires aux billiards avec la géométrie des     surfaces ?? (video arte (Les Mathématiques selon Maryam Mirzakhani)) ou physique du billiard -> peut-on mettre toutes les boules d'un coup.
+  Autre idées :
+
+-  
+- 
 -
 -
 -
