@@ -29,7 +29,7 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
 - Jeudi 9 févirer 2023 : deuxième séance de TIPE. Recherche sujet, première idée : billiard (relier les trajectoires aux billiards avec la géométrie des     surfaces ?? (video arte (Les Mathématiques selon Maryam Mirzakhani)) ou physique du billiard -> peut-on mettre toutes les boules d'un coup.
   Autre idées :
 
--  
+-  Jeudi 2 février : rien absent.
 - 
 -
 -
