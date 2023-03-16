@@ -30,8 +30,8 @@ Notez **chaque semaine** ce que vous faites et la date correspondante.
   Autre idées :
 
 -  Jeudi 2 février : rien absent.
-- 
--
+- Jeudi 9 mars : présentation powerpoint 2 idées -> billard mathématique / ia football
+- Jeudi 16 mars :
 -
 -
 -
